@@ -12,7 +12,7 @@ FOOD_COLOR = '#eb0707'
 BACKGROUND_COLOR = '#0f010f'
 
 
-class Snake:
+class Snake: 
     
     
     def __init__(self):
